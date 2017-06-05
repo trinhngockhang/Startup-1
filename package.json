@@ -1,0 +1,24 @@
+{
+  "name": "team_mlap",
+  "version": "1.0.0",
+  "description": "startup",
+  "main": "...",
+  "scripts": {
+    "test": "..."
+  },
+  "repository": {
+    "type": "git",
+    "url": "..."
+  },
+  "keywords": [
+    "..."
+  ],
+  "author": "team_mlap",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.2",
+    "nodemon": "^1.11.0"
+  }
+}
